@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeltonikaDualCamTcpLIstener", "TeltonikaDualCamTcpLIstener\TeltonikaDualCamTcpLIstener.csproj", "{46F0DBA9-8D7E-493C-B5AC-9CF7F3A98BCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeltonikaDualCamTcpListenerForm", "TeltonikaDualCamTcpListenerForm\TeltonikaDualCamTcpListenerForm.csproj", "{7496F954-3987-4A9B-AF4F-6CF50E3D02F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeltonikaDualCamTcpNetBase", "TeltonikaDualCamTcpNetBase\TeltonikaDualCamTcpNetBase.csproj", "{0FC15C45-3B49-4398-B6ED-4A2D521DF7CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F0DBA9-8D7E-493C-B5AC-9CF7F3A98BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F0DBA9-8D7E-493C-B5AC-9CF7F3A98BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F0DBA9-8D7E-493C-B5AC-9CF7F3A98BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F0DBA9-8D7E-493C-B5AC-9CF7F3A98BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7496F954-3987-4A9B-AF4F-6CF50E3D02F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7496F954-3987-4A9B-AF4F-6CF50E3D02F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7496F954-3987-4A9B-AF4F-6CF50E3D02F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7496F954-3987-4A9B-AF4F-6CF50E3D02F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FC15C45-3B49-4398-B6ED-4A2D521DF7CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FC15C45-3B49-4398-B6ED-4A2D521DF7CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FC15C45-3B49-4398-B6ED-4A2D521DF7CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FC15C45-3B49-4398-B6ED-4A2D521DF7CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA7EB1E2-479F-430C-88FD-D4CB2A13D81A}
+	EndGlobalSection
+EndGlobal
